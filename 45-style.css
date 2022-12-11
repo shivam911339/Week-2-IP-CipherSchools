@@ -1,0 +1,14 @@
+.h1class{
+    color:blue;
+}
+
+.h2class{
+    color:green;
+}
+
+h1.h1class{
+    color:red;
+}
+/* #h1id{
+    color:black
+} */

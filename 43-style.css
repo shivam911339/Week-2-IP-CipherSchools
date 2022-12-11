@@ -1,0 +1,37 @@
+header{
+    background-color:#f2e9e9;
+    }
+
+section.my-articles{
+    background-color: #f2e9e9;
+}
+
+/* p{ */
+    /* color:red */
+/* } */
+
+header p{
+    color:red;
+}
+header  li a{
+    color:yellow;
+}
+
+/* section.my-articles h2{
+    color:green;
+} */
+
+section.my-articles >h2{
+    color:green;
+}
+
+h2+p{
+    color:orangered;
+}
+ul+p{
+    color:green;
+
+}
+section.my-articles h2+p{
+    color:blue;
+}
