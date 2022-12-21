@@ -1,0 +1,13 @@
+hr{
+    width:500px;
+    margin-left: 0%;
+    border:0.5px dashed black;
+}
+
+.Box_1{
+    box-sizing: border-box;
+    Background-color: brown;
+    width:500px;
+    border:10px solid black;
+    padding:50px;
+}
